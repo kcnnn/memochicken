@@ -2,7 +2,7 @@ require('dotenv').config()
 var axios = require('axios')
 var datacash = require('datacash')
 var EventSource = require('eventsource')
-const hashtag = "#memochicken"
+const hashtag = "#memobunny"
 var memo = function() {
   var query = {
     "v": 3,
