@@ -38,7 +38,7 @@ var memo = function() {
         console.log("threshold = ", amount)
         if (res.output.e.v > amount) {
           console.log("passed condition...")
-          hand("chicken")
+          hand("bunny")
         }
       }
     }
